@@ -1,0 +1,11 @@
+Matías, Sosa, CI 43729697
+
+El esquema de ramas que utilizaría en un proyecto de desarrollo sería de una
+ rama principal o fuente de verdad, que sería la de producción.
+Luego una rama de testing o QA, donde se probarian las funcionalidades nuevas antes de entrar a 
+producción.
+Finalmente una rama de desarrollo para crear las nuevas funcionalidades.
+En esta rama de desarrollo generaría las nuevas features y una vez finalizadas las integraría a la
+rama de QA, la cual debe estar siempre actualizada con la ultima versión de producción.
+En esta realizaría las pruebas automatizadas y una vez validades, se realizaría el merege a la rama 
+de producción, pero desde la rama de desarrollo.
