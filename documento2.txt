@@ -1,0 +1,5 @@
+Matías, Sosa, CI 43729697
+
+El proceso para el despliegue de una nueva funcionalidad fue mencionado en documento anterior, pero se realizaría de la siguiente manera:
+Dev desarrolla una nueva funcionalidad, la pasa a rama de QA, la cual debe estar actualizada a ultima versión de prod
+luego de pasar las pruebas, QA valida y dev hace merge con prod
